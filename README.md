@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shiladitya Saha
 # 💫 About Me:
-🎓 B.Tech CSE (2022–2026) @ Academy of Technology
-💻 Full-stack MERN Developer | Competitive Programmer
+🎓 B.Tech CSE (2022–2026) @ Academy of Technology</br>
+💻 Full-stack MERN Developer | Competitive Programmer</br>
 
 I focus on designing efficient systems, solving challenging algorithmic problems, and building clean, user-centric web applications. With 750+ LeetCode (rating: 1818) problems solved, TCS CodeVita Round 2 qualification, and practical experience in MERN stack development, I work at the intersection of logic and creativity to build reliable and meaningful digital solutions.
 
